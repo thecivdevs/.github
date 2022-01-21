@@ -2,21 +2,6 @@
 
 This was created by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur
 
-## 👨🏻‍🏫 Project Mentor
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/simpleesnehil"><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;">
-        <br>
-        <b>Snehil Saluja</b>
-      </a>
-      <br>
-      <sub>170707</sub>
-    </td>
-  </tr>
-</table>
-
 ## 🎓 Project Members
 
 | Roll No | Name                          | Resume                                                                                       | GitHub                                                                                                                  |
@@ -65,6 +50,21 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 201137  | Yasvir Singh                  | [Resume](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/" width="50px;">](https://github.com/)                                 |
 | 201170  | Yuvraj Mimrot                 | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/YuvrajMimrotZaki" width="50px;">](https://github.com/YuvrajMimrotZaki) |
 | 201171  | Yuvraj Singh                  | [Resume](https://drive.google.com/file/d/1VdjtgLpIlk64ap9_5OOr8rnsYKkd4fBc/view?usp=sharing) | [<img src="https://avatars.githubusercontent.com/Yuvraj1171" width="50px;">](https://github.com/Yuvraj1171)             |
+
+## 👨🏻‍🏫 Project Mentor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/simpleesnehil"><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;">
+        <br>
+        <b>Snehil Saluja</b>
+      </a>
+      <br>
+      <sub>170707</sub>
+    </td>
+  </tr>
+</table>
 
 ## 💻 Contributors
 
