@@ -1,6 +1,30 @@
 # 🌏 Geoinformatics Project 2021-22
 
-This was created by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur
+This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to explore Geoinformatics and learn development to apply the same into application. The members of the project know the following technologies as of today: 
+
+- HTML
+- CSS
+- Git and Github
+
+and they are now going to learn the following technologies: 
+
+- Javascript
+- React
+- Python 
+- Django
+
+and the following concepts of Geoinformatics: 
+
+- Introduction to Geoinformatics
+- Geographic Information Systems
+- Remote Sensing and Photogrammetry
+- Navigation, Location and Positioning using satellites
+
+After which they would be applying the same into building applications in the same domain. 
+
+To profile of the member students is listed below and their contributions are visible and can be seen on their accounts.
+
+For offering internships/projects to the students, write us at giprojectcivil@gmail.com or contact the mentor at snehilsaluja@gmail.com
 
 ## 🎓 Project Members
 
@@ -56,7 +80,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/simpleesnehil"><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;">
+      <a href="https://github.com/mrsnhl"><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;">
         <br>
         <b>Snehil Saluja</b>
       </a>
