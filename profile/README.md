@@ -1,6 +1,6 @@
-# 🌏 Geoinformatics Project 2021-22
+# 🌏 The Civilized Developers
 
-This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to learn software development and explore Geoinformatics and to apply the same into building web applications. The project has more than 50 members now who are already working in teams of 3-5 for various startups, and in terms of technology, the members of the project know the following as of 9th February, 2022: 
+This group of developers was started as a project and was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to learn software development and explore Geoinformatics and to apply the same into building web applications. The project has more than 50 members now who are already working in teams of 3-5 for various startups, and in terms of technology, the members of the project know the following as of 9th February, 2022: 
 
 - HTML
 - CSS
