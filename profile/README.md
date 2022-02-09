@@ -1,26 +1,29 @@
 # 🌏 Geoinformatics Project 2021-22
 
-This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to explore Geoinformatics and learn development to apply the same into application. The members of the project know the following technologies as of today: 
+This project was created collboratively by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur while they were attempting to learn software development and explore Geoinformatics and to apply the same into building web applications. The project has more than 50 members now who are already working in teams of 3-5 for various startups, and in terms of technology, the members of the project know the following as of 9th February, 2022: 
 
 - HTML
 - CSS
 - Git and Github
-
-and they are now going to learn the following technologies: 
-
-- Javascript
+- Javascript and its frameworks
+- Node
+- Frontend Development
 - React
+
+and they are in their process to learn the following technologies: 
+
 - Python 
+- Backend Development
 - Django
 
-and the following concepts of Geoinformatics: 
+As the students are of Civil Engineering, IIT Kanpur, they would also be learning the following concepts of Geoinformatics: 
 
 - Introduction to Geoinformatics
 - Geographic Information Systems
 - Remote Sensing and Photogrammetry
 - Navigation, Location and Positioning using satellites
 
-After which they would be applying the same into building applications in the same domain. 
+After which they would be applying the same into building applications in, but not limited to the domain. 
 
 To profile of the member students is listed below and their contributions are visible and can be seen on their accounts.
 
